@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js"
+    
   },
   "author": "Aashish",
   "license": "MIT",
